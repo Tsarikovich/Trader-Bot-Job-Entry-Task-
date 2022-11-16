@@ -1,0 +1,10 @@
+{
+  "robot": {
+    "gap": 10.0,
+    "gap_ignore": 60.0
+  },
+  "exchange": {
+    "client_id": 666,
+    "client_secret": "clientSecret"
+  }
+}
