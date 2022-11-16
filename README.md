@@ -2,4 +2,4 @@
 
 One of the task from my interviews on middle python
 
-[a link](https://task.tiiny.site/)
+[The task](https://task.tiiny.site/)
